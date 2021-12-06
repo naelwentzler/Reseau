@@ -1,0 +1,4 @@
+Thu Nov  7 16:24:55 2019 [MAIN TH]: process input packets thread created with ID 3468494592.
+Thu Nov  7 16:24:55 2019 [SERVER TH]: waiting for incoming messages.
+Thu Nov  7 16:26:09 2019 [MAIN TH]: process input packets thread created with ID 625760000.
+Thu Nov  7 16:26:09 2019 [SERVER TH]: waiting for incoming messages.
